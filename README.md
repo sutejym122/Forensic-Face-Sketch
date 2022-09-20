@@ -12,7 +12,7 @@ Forensic Face Sketch Construction and Recognition
   *Note : You need AWS for the recognition part , so you will have to setup AWS S3 bucket and AWS Rekognition*<br><br>
 A detailed guide to run the Project is explained below<br><br>
   SETTING UP THE IDE<br>
-    1.Download the Source Code from the Repo(https://github.com/sutejym122/Forensic-Face-Sketch)<br>
+    1.Download the FinalCode.zip from the Repo(https://github.com/sutejym122/Forensic-Face-Sketch)<br>
     2.Download and Install the Java JDK 8 (https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html)<br>
     3.Download the latest NetBeans Installer (https://netbeans.apache.org/download/index.html)<br>
     4.Install and Open NetBeans<br>
